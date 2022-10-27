@@ -22,7 +22,7 @@ env:
   REGISTRY: ghcr.io
   # github.repository as <account>/<repo>
   # CHANGE THE IMAGE NAME HERE
-  IMAGE_NAME: seisscoped/template
+  IMAGE_NAME: seisscoped/container-template
 
 jobs:
   build-centos:
